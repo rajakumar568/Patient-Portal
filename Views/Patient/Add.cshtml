@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Patient_Portal.Models.AddPatientViewModel;
+
+<h1>Register Patient</h1>
+
+<form method="post" id="contactForm">
+
+    <div class="mt-3">
+        <label class="form-label">Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" />
+    </div>
+    <div class="mt-3">
+        <label class="form-label">Phone</label>
+        <input type="number" class="form-control" id="Phone" name="Phone" />
+    </div>
+    <div class="mt-3">
+        <label class="form-label">Age</label>
+        <input type="number" class="form-control" id="Age" name="Age" />
+    </div>
+    <div class="mt-3">
+        <label class="form-label">Department</label>
+        <input type="text" class="form-control" id="Department" name="Department" />
+    </div>
+    <div class="mt-3">
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+</form>
+
+<script>
+    $(document).ready(function () {
+        $('#contactForm').submit(function (event) {
+            event.preventDefault();
+            console.log("Form submitted"); // Check if this message appears in the browser console
+            $('#Name').val('');
+            $('#Phone').val('');
+            $('#Age').val('');
+            $('#Department').val('');
+
+
+        });
+    });
+</script>
+

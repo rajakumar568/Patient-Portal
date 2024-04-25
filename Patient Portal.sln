@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patient Portal", "Patient Portal.csproj", "{81528EF7-DA49-4AB6-9650-53330672AC52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81528EF7-DA49-4AB6-9650-53330672AC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81528EF7-DA49-4AB6-9650-53330672AC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81528EF7-DA49-4AB6-9650-53330672AC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81528EF7-DA49-4AB6-9650-53330672AC52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98F771AB-26B8-44A9-A962-8FFBE7F41E8B}
+	EndGlobalSection
+EndGlobal

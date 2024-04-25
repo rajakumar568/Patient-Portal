@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model List<Patient_Portal.Models.Entity.Patient>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Phone</th>
+            <th>Department</th>
+        </tr>
+
+    </thead>
+    <tbody>
+
+        @foreach (var patient in Model)
+        {
+            <tr>
+                <td>@patient.Id</td>
+                <td>@patient.Name</td>
+                <td>@patient.Age</td>
+                <td>@patient.Phone</td>
+                <td>@patient.Department</td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="Patient" asp-action="Edit" asp-route-id="@patient.Id">Edit </a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>

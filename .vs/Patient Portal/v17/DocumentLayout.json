@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C SHARP\\Patient Portal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|d:\\c sharp\\patient portal\\models\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|solutionrelative:models\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|d:\\c sharp\\patient portal\\models\\addpatientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|solutionrelative:models\\addpatientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|d:\\c sharp\\patient portal\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|d:\\c sharp\\patient portal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|d:\\c sharp\\patient portal\\views\\patient\\find.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|solutionrelative:views\\patient\\find.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|d:\\c sharp\\patient portal\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|solutionrelative:views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|d:\\c sharp\\patient portal\\views\\patient\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|solutionrelative:views\\patient\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|d:\\c sharp\\patient portal\\views\\patient\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|solutionrelative:views\\patient\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|d:\\c sharp\\patient portal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|d:\\c sharp\\patient portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81528EF7-DA49-4AB6-9650-53330672AC52}|Patient Portal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\C SHARP\\Patient Portal\\Views\\Patient\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\Add.cshtml",
+              "ToolTip": "D:\\C SHARP\\Patient Portal\\Views\\Patient\\Add.cshtml",
+              "RelativeToolTip": "Views\\Patient\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T08:40:46.278Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\C SHARP\\Patient Portal\\Models\\Entity\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\Patient.cs",
+              "ToolTip": "D:\\C SHARP\\Patient Portal\\Models\\Entity\\Patient.cs",
+              "RelativeToolTip": "Models\\Entity\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:36:32.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPatientViewModel.cs",
+              "DocumentMoniker": "D:\\C SHARP\\Patient Portal\\Models\\AddPatientViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AddPatientViewModel.cs",
+              "ToolTip": "D:\\C SHARP\\Patient Portal\\Models\\AddPatientViewModel.cs",
+              "RelativeToolTip": "Models\\AddPatientViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:35:51.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C SHARP\\Patient Portal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C SHARP\\Patient Portal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T20:12:17.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C SHARP\\Patient Portal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C SHARP\\Patient Portal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:24:34.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C SHARP\\Patient Portal\\Views\\Patient\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\Edit.cshtml",
+              "ToolTip": "D:\\C SHARP\\Patient Portal\\Views\\Patient\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Patient\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T10:18:03.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\C SHARP\\Patient Portal\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "D:\\C SHARP\\Patient Portal\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAUwGkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:05:27.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Find.cshtml",
+              "DocumentMoniker": "D:\\C SHARP\\Patient Portal\\Views\\Patient\\Find.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\Find.cshtml",
+              "ToolTip": "D:\\C SHARP\\Patient Portal\\Views\\Patient\\Find.cshtml",
+              "RelativeToolTip": "Views\\Patient\\Find.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T06:48:49.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\C SHARP\\Patient Portal\\Views\\Patient\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patient\\List.cshtml",
+              "ToolTip": "D:\\C SHARP\\Patient Portal\\Views\\Patient\\List.cshtml",
+              "RelativeToolTip": "Views\\Patient\\List.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T09:56:25.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C SHARP\\Patient Portal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C SHARP\\Patient Portal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T08:24:03.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
